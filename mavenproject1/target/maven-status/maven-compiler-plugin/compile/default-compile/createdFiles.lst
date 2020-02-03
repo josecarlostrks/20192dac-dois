@@ -1,0 +1,13 @@
+br/com/trks/mavenproject1/domain/Main.class
+br/com/trks/mavenproject1/controle/ParticipanteBean.class
+br/com/trks/mavenproject1/domain/Contato_.class
+br/com/trks/mavenproject1/domain/Participante_.class
+br/com/trks/mavenproject1/dao/ParticipanteDao.class
+br/com/trks/mavenproject1/domain/Endereco.class
+br/com/trks/mavenproject1/domain/Inscricao_.class
+br/com/trks/mavenproject1/domain/Artigo.class
+br/com/trks/mavenproject1/domain/Participante.class
+br/com/trks/mavenproject1/domain/Artigo_.class
+br/com/trks/mavenproject1/domain/Contato.class
+br/com/trks/mavenproject1/domain/Inscricao.class
+br/com/trks/mavenproject1/domain/Endereco_.class
